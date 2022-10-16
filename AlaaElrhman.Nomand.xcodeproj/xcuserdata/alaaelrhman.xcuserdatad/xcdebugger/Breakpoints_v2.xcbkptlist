@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7BE1BCCF-547C-4474-BA47-536DE0E099B2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17D732DA-7D52-4990-A11B-5F54F14511BE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AlaaElrhman.Nomand/MVVM/Views/Cells/ProductTVCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "viewModel"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E8F0970-5668-48D6-961F-D54677EF0384"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AlaaElrhman.Nomand/Extensions/UIExtension/UIImage+Ext.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "load(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37E55227-8B88-4476-977E-EC31E16DDF18"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AlaaElrhman.Nomand/Extensions/UIExtension/UIImage+Ext.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "load(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "567802EF-EB27-484A-BCE4-40E5845FCA92"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AlaaElrhman.Nomand/Extensions/UIExtension/UIImage+Ext.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "load(url:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "567802EF-EB27-484A-BCE4-40E5845FCA92 - a4a41e90332a5c3d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in __C.UIImageView.load(url: Foundation.URL) -&gt; ()"
+                  moduleName = "AlaaElrhman.Nomand"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alaaelrhman/Desktop/AlaaElrhman.Nomand/AlaaElrhman.Nomand/Extensions/UIExtension/UIImage+Ext.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "408">
+               </Location>
+               <Location
+                  uuid = "567802EF-EB27-484A-BCE4-40E5845FCA92 - a4a41e90332a5c3d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in __C.UIImageView.load(url: Foundation.URL) -&gt; ()"
+                  moduleName = "AlaaElrhman.Nomand"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alaaelrhman/Desktop/AlaaElrhman.Nomand/AlaaElrhman.Nomand/Extensions/UIExtension/UIImage+Ext.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "492">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "50990CE0-F834-493A-8B36-F63038562261"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AlaaElrhman.Nomand/Extensions/UIExtension/UIImage+Ext.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "load(url:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "50990CE0-F834-493A-8B36-F63038562261 - a4a41e90332a5c12"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in __C.UIImageView.load(url: Foundation.URL) -&gt; ()"
+                  moduleName = "AlaaElrhman.Nomand"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alaaelrhman/Desktop/AlaaElrhman.Nomand/AlaaElrhman.Nomand/Extensions/UIExtension/UIImage+Ext.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "50990CE0-F834-493A-8B36-F63038562261 - a4a41e90332a5c12"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in __C.UIImageView.load(url: Foundation.URL) -&gt; ()"
+                  moduleName = "AlaaElrhman.Nomand"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alaaelrhman/Desktop/AlaaElrhman.Nomand/AlaaElrhman.Nomand/Extensions/UIExtension/UIImage+Ext.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "360">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B86B157-FCD2-47DB-80AE-0D34FC2E1FF6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AlaaElrhman.Nomand/MVVM/Views/Cells/ProductTVCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "cartButtonPressed(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
